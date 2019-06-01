@@ -2,6 +2,7 @@ for i in range(1,9):
     print("*"*i)
 
 print("Hello and welcome! Its Sakshi here!djglsdlkfjg;lkj")
+print("git tutorial!")
 
 for i in range(10,0,-1):
     print("#"*i)
